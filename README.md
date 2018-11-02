@@ -1,2 +1,2 @@
-# Core-Data-Services-ABAP
-ABAP Core Data Services - Trial
+# New Generation ABAP
+This repo is to try out new generation ABAP features
